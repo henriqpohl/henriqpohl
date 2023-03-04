@@ -5,7 +5,6 @@ I believe that the Web and Design unites different universes and brings us a fan
 </div>
 <br>
 
-| <a href="https://github.com/henriqpohl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqpohl&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Henriqpohl github stats" /></a> | <a href="https://github.com/henriqpohl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqpohl&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div style="display: inline_block">
