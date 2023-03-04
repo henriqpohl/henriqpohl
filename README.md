@@ -1,7 +1,7 @@
 <h2><b>Greetings! I'm Henrique! ;)</b></h2>
 <div>
-I'm a Graphic Designer and Front-end Developer.<br>
-I believe that Design unites different universes and brings us a fantastic way of communication.
+I'm a Front-end Developer and Graphic Designer<br>
+I believe that the Web and Design unites different universes and brings us a fantastic way of communication.
 </div>
 <br>
 
