@@ -4,9 +4,8 @@ I'm a Front-end Developer and Graphic Designer<br>
 I believe that the Web and Design unites different universes and brings us a fantastic way of communication.
 </div>
 <br>
-
 ##
- 
+<br>
 </div>
  
 <div>
