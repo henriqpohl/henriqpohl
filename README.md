@@ -8,7 +8,6 @@ I believe that the Web and Design unites different universes and brings us a fan
 ##
 
 <br>
-</div>
  
 <div>
   <a href="https://www.behance.net/henriqpohl" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
