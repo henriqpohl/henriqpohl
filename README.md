@@ -3,11 +3,8 @@
 I'm a Front-end Developer and Graphic Designer<br>
 I believe that the Web and Design unites different universes and brings us a fantastic way of communication.
 </div>
-<br>
     
 ##
-
-<br>
  
 <div>
   <a href="https://www.linkedin.com/in/henriqpohl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
