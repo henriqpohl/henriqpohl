@@ -1,4 +1,4 @@
-## Hi there! 👋<br>I'm Henrique! :)
+# Hi there! 👋<br>I'm Henrique! :)
   
 - 👨‍💻 I’m a Web Developer and Designer
 - 🖥️ <a href="https://henriqpohl.com" target="_blank">henriqpohl.com</a>
