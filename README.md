@@ -1,4 +1,4 @@
-<h2><b>Hi there! 👋<br>I'm Henrique! :)</b></h2>
+## Hi there! 👋<br>I'm Henrique! :)
   
 - 👨‍💻 I’m a Web Developer and Designer
 - 🖥️ <a href="https://henriqpohl.com" target="_blank">henriqpohl.com</a>
@@ -6,8 +6,9 @@
 - 🇮🇪 Dublin - IE
 
 I believe that the Web and Design unites different universes and brings us a fantastic way of communication. 🚀
-    
-##
+
+---
+
 How to reach me: ⬇️
 <div>
     <a href = "mailto:henriqpohl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
