@@ -1,6 +1,6 @@
 # Hi there! 👋<br>I'm Henrique! :)
   
-- 👨‍💻 I’m a Web Developer and Designer
+- 👨‍💻 I’m a Front End Engineer
 - 🖥️ <a href="https://henriqpohl.com" target="_blank">henriqpohl.com</a>
 - 📸 I love Photography
 - 🇮🇪 Dublin - IE
